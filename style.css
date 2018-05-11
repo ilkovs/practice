@@ -1,0 +1,16 @@
+body {
+    background-color: orange;
+}
+
+.section1 {
+    background-color: lightblue;
+    text-align: center;
+}
+#p1 {   
+    font: verdana;
+    font-size: 15px;
+}
+#section2 {
+    background-color: lightblue;
+    text-align: left;
+}
